@@ -1,4 +1,4 @@
-// import { useState } from 'react';
+//  import { useState } from 'react';
 import '@fontsource-variable/inter';
 
 export default function Portfolio() {
@@ -13,7 +13,7 @@ export default function Portfolio() {
           <a href="#projects" className="hover:text-yellow-300 transition-colors">Projects</a>
           <a href="#contact" className="hover:text-yellow-300 transition-colors">Contact</a>
           <a href="https://linkedin.com" target="_blank" className="hover:text-blue-400">LinkedIn</a>
-          <a href="https://github.com" target="_blank" className="hover:text-gray-300">GitHub</a>
+          <a href="https://github.com/SamplerAnzi" target="_blank" className="hover:text-gray-300">GitHub</a>
           <a href="https://instagram.com" target="_blank" className="hover:text-pink-400">Instagram</a>
         </div>
       </nav>
