@@ -5,7 +5,7 @@ export default function Navbar() {
     // <nav className="bg-black/30 backdrop-blur-md px-6 md:px-20 py-6 fixed top-0 w-full z-10 flex justify-between items-center shadow-md font-semibold text-white">
 <nav className="fixed top-0 left-0 w-full z-50 backdrop-blur-md bg-gradient-to-b from-[#0a192f]/80 to-transparent px-6 py-4 flex justify-between items-center">
       {/* Left: Nav Links */}
-      <div className="flex space-x-10 text-4xl">
+      <div className="flex space-x-10 text-3xl">
        <a href="#projects" className="hover:text-blue-500 transition-colors">Skills</a>
 
         <a href="#projects" className="hover:text-blue-500 transition-colors">Projects</a>
