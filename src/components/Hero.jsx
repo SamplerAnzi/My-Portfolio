@@ -9,7 +9,7 @@ export default function Hero() {
 </h1>
 
 
-      <p className="text-2xl max-w-2xl text-white/80 leading-relaxed">
+      <p className="text-xl max-w-2xl text-white/80 leading-relaxed">
         I'm a developer with hands-on experience in <span className="text-cyan-400">C++</span>, <span className="text-orange-400">Java</span>, and <span className="text-blue-400">React</span>. I focus on building <strong className="text-white">efficient</strong>, <strong className="text-white">scalable</strong> web applications and love solving real-world technical challenges.
       </p>
 
