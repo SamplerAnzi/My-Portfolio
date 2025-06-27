@@ -4,7 +4,7 @@ export default function Hero() {
       id="about"
       className="flex flex-col items-center justify-center text-center pt-48 pb-24 px-6"
     >
-      <h1 className="text-hero font-extrabold tracking-tight mb-6 leading-tight">
+      <h1 className="text-hero font-bold tracking-tight mb-6 leading-tight">
   Hi, I'm Angellina <span className="inline-block animate-waving-hand">👋</span>
 </h1>
 
