@@ -6,7 +6,7 @@ export default function Projects() {
       <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-8">
         {/* Project 1 */}
         {/* <div className="bg-white/10 backdrop-blur-lg p-6 rounded-2xl shadow-lg hover:shadow-yellow-200/30 transition duration-300 transform hover:-translate-y-2"> */}
-        <div className="bg-card backdrop-blur-xs p-6 rounded-xl shadow-glass hover:shadow-lg transition-all duration-300">
+        <div className="bg-white/10 backdrop-blur-lg p-6 rounded-2xl shadow-lg hover:shadow-yellow-200/30 transition duration-300 transform hover:-translate-y-2">
           <h4 className="text-xl font-semibold mb-2 text-white">Venue Booking System</h4>
           <p className="text-l text-gray-300 mb-4">
             A Java-based desktop app to manage event venues, reservations, and user data with MySQL.
