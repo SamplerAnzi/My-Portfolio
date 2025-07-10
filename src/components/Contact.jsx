@@ -61,7 +61,8 @@ export default function Contact() {
       <form
         action="https://formsubmit.co/angellinagill.2402@gmail.com"
         method="POST"
-        className="max-w-xl mx-auto space-y-4"
+        data-netlify="false"
+        // className="max-w-xl mx-auto space-y-4"
       >
         {/* Anti-spam honeypot */}
         <input type="text" name="_honey" style={{ display: 'none' }} />
